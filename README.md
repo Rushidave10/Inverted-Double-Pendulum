@@ -2,6 +2,11 @@
 Solving a classical control task of stabilization of double pendulum in inverted upright position.
 <img src="https://user-images.githubusercontent.com/74346112/160151198-88399c94-56d6-4259-9afa-4193a6212c78.PNG" width="800" height="400">
 
+# Quick Guide to Repository
+- __DoubleCartpole_env.py__: creates the simulation environment for the problem.<br>
+- __inverted_double_pendulum.ipynb__: contains the ppo-agent along with rollout-buffer and Actor-Critic Network.<br>
+- __PPO_Trained__: Contains weights and biases of trained-agent.<br>
+
 # Training Splits
 ## 10 % Training done:
 <img src="https://user-images.githubusercontent.com/74346112/160209610-4aa6f9c4-797e-43c0-96cc-b25467ddfd72.gif" width="400" height="300">
