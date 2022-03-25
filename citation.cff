@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+author: "Rushi Dave"
+title: "Inverted-Double-Pendulum"
+version: 1.0.0
+date-released: 2022-03-25
+url: "https://github.com/Rushidave10/Inverted-Double-Pendulum"
